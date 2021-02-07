@@ -2,8 +2,8 @@
 
 ## Attendees
 - Sangam Kumar
-
-
-##new branch made
-
 - Shanu Tyagi
+- Sidthyant Roy
+- Anirudh
+- Saurav Kumar
+- Rajan
