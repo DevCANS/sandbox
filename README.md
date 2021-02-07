@@ -2,3 +2,4 @@
 
 ## Attendees
 - Sangam Kumar
+- Rohit Rajak
