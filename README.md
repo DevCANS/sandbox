@@ -2,6 +2,7 @@
 
 ## Attendees
 - Sangam Kumar
+- Deepak Gupta
 - Rohit Rajak
 - Shanu Tyagi
 - Sidthyant Roy
