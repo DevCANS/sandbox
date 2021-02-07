@@ -1,4 +1,4 @@
 # sandbox
 
 ## Attendees
-- Sangam Kumar
+- Sangam
